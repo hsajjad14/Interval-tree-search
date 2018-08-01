@@ -6,3 +6,4 @@ this is the tree with the list [25, 24, 5, 20, 7, 4, 30]
 
 To use open q1.py and in the if __name__ == '__main__' section put the list you want to search in the IntervalTree function parameters, then indicate which part of the list you want to seach using indices in the min_in_range parameters.
 The program then prints out the index of the smallest number.
+
